@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <head></head>
     <table border="0" 
     width="500px" 
