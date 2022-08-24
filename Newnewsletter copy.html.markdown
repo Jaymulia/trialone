@@ -10,7 +10,7 @@
                     border-style: inset;
                 } 
         </style>
-        <th colspan="2" align="left">
+        <th colspan="2" align="center">
             <img src="https://aseanyouthnet.files.wordpress.com/2020/08/ayogift.gif"
             height="40%"
             width="40%"></img>
